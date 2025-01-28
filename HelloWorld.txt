@@ -1,3 +1,3 @@
 HALLO, WELT!
 Hello, World!
-Salve, mundi!
+SALVE, MUNDI!
